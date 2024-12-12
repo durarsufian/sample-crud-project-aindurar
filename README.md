@@ -40,7 +40,7 @@ Getting Started:
 
 5. Run the Application:
    - Open web browser and enter http://localhost/crud_app/ into the address bar.
-   - This will open the main page of your CRUD application in the browser.
+   - This will open the main page of the CRUD application in the browser.
      
 Now you can interact with the application by adding new tasks, view existing tasks, edit existing tasks and delete unwanted tasks.
 
