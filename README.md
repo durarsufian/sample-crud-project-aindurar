@@ -50,4 +50,4 @@ Note:
 - By following these steps, you should be able to successfully set up and run CRUD application on your local machine.
 
 Credits:
-Developed by Aindurar Rania Balqis Binti Mohd Sufian
+- Developed by Aindurar Rania Balqis Binti Mohd Sufian
