@@ -45,9 +45,9 @@ Getting Started:
 Now you can interact with the application by adding new tasks, view existing tasks, edit existing tasks and delete unwanted tasks.
 
 Note:
-Make sure you have PHP installed and configured on your system. XAMPP typically includes PHP.
-If you encounter any errors, check the error logs in the XAMPP directory for more information.
-By following these steps, you should be able to successfully set up and run CRUD application on your local machine.
+- Make sure you have PHP installed and configured on your system. XAMPP typically includes PHP.
+- If you encounter any errors, check the error logs in the XAMPP directory for more information.
+- By following these steps, you should be able to successfully set up and run CRUD application on your local machine.
 
 Credits:
 Developed by Aindurar Rania Balqis Binti Mohd Sufian
