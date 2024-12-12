@@ -1,0 +1,11 @@
+Approach:
+I chose PHP and MySQL for this project to demonstrate my versatility in web development, showcasing skills beyond Python, which I already have experience with. I am currently learning PHP, and this project served as a practical application to strengthen my understanding of the language and its integration with databases.
+
+Challenges Faced:
+
+- Implementing pagination for this app required careful planning to fetch the right set of records and calculate the total number of pages based on database content.
+- Setting up a reliable connection between PHP and MySQL was initially challenging, especially in handling potential connection errors.
+- Developing Create, Read, Update, and Delete functionality required precision to ensure that each operation interacted correctly with the database without causing errors.
+- Merging PHP's backend logic with a responsive UI built using Bootstrap was complex but rewarding in enhancing user experience.
+
+
